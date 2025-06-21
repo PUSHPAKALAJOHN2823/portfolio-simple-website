@@ -1,5 +1,18 @@
-This repository contains a basic personal portfolio website consisting of two static pages. It is designed using fundamental web technologies to present personal details and sample work in a clean and organized layout. This project is ideal for beginners exploring the basics of web development.
+Personal Portfolio
+Overview
+A basic two-page personal portfolio website built using HTML5 and CSS3. It showcases personal information on the Home page and contact details on the Contact page.
 
-Technologies Used
-HTML5 – for creating the structure of the web pages
-CSS3 – for styling and visual design
+Pages
+Home – Brief intro and highlights
+Contact – Contact details or form layout
+
+Technologies
+HTML5
+CSS3
+Semantic HTML
+Google Fonts, Flexbox
+
+Live Site
+View Live : 
+
+Thanks for checking out this project!
